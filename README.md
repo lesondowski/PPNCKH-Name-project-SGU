@@ -12,3 +12,18 @@
 ## 🛠 Công nghệ sử dụng
 
 ## 📌 Cách chạy dự án
+
+## Ghi chú note
+
+### Tạo nhánh mới
+
+- `Mỗi thành viên tạo nhánh riêng để thực hiện công việc`: git checkout -b feature-username
+
+### Thực hiện thay đổi & cam kết
+
+- `Sau khi hoàn thành tính năng, commit code:` _git add ._
+- _git commit -m "Thêm tính năng A"_
+
+### Đẩy nhánh lên GitHub
+
+_git push origin feature-username_
