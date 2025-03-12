@@ -23,9 +23,9 @@
 
 - Sau khi hoàn thành tính năng, commit code:
 
-  > > `git add .`
+  > `git add .`
 
-  > > `git commit -m "Thêm tính năng A"`
+  > `git commit -m "Thêm tính năng A"`
 
 ### Đẩy nhánh lên GitHub
 
