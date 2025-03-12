@@ -22,7 +22,9 @@
 ### Thực hiện thay đổi & cam kết
 
 - Sau khi hoàn thành tính năng, commit code:
+
   > > `git add .`
+
   > > `git commit -m "Thêm tính năng A"`
 
 ### Đẩy nhánh lên GitHub
