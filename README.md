@@ -17,13 +17,14 @@
 
 ### Tạo nhánh mới
 
-- `Mỗi thành viên tạo nhánh riêng để thực hiện công việc`: git checkout -b feature-username
+- Mỗi thành viên tạo nhánh riêng để thực hiện công việc: `git checkout -b feature-username`
 
 ### Thực hiện thay đổi & cam kết
 
-- `Sau khi hoàn thành tính năng, commit code:` _git add ._
-- _git commit -m "Thêm tính năng A"_
+- Sau khi hoàn thành tính năng, commit code:
+  > > `git add .`
+  > > `git commit -m "Thêm tính năng A"`
 
 ### Đẩy nhánh lên GitHub
 
-_git push origin feature-username_
+- `git push origin feature-username`
