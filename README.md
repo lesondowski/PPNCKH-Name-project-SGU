@@ -17,7 +17,8 @@
 
 ### Tạo nhánh mới
 
-- Mỗi thành viên tạo nhánh riêng để thực hiện công việc: `git checkout -b feature-username`
+- Mỗi thành viên tạo nhánh riêng để thực hiện công việc:
+  > `git checkout -b feature-username`
 
 ### Thực hiện thay đổi & cam kết
 
