@@ -1,0 +1,40 @@
+
+========== LightGBM ==========
+Accuracy: 0.6731
+F1 Score: 0.6741
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.60      0.67      0.63     13707
+           1       0.73      0.73      0.73      9408
+           2       0.71      0.65      0.68     17416
+
+    accuracy                           0.67     40531
+   macro avg       0.68      0.68      0.68     40531
+weighted avg       0.68      0.67      0.67     40531
+
+Confusion Matrix:
+[[ 9179  1467  3061]
+ [ 1115  6844  1449]
+ [ 5118  1040 11258]]
+
+========== RandomForest ==========
+Accuracy: 0.6043
+F1 Score: 0.6054
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.57      0.54      0.55     13707
+           1       0.52      0.63      0.57      9408
+           2       0.69      0.64      0.67     17416
+
+    accuracy                           0.60     40531
+   macro avg       0.59      0.60      0.60     40531
+weighted avg       0.61      0.60      0.61     40531
+
+Confusion Matrix:
+[[ 7351  3363  2993]
+ [ 1398  5933  2077]
+ [ 4165  2042 11209]]
